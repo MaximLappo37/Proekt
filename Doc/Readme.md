@@ -127,8 +127,6 @@ const { loginWithRedirect,logout, isAuthenticated } = useAuth0();
                 }
 
 ```
-Маємо загальний вигляд нашої головної сторінки:<br/>
-![я1](https://user-images.githubusercontent.com/47575620/119914270-7a0b5880-bf68-11eb-8ea1-7c32b2844c8b.png)
 
 Перейдемо до створення тестів. Сторінка кожного предмета буде виглядати однаково, тому код продемонструємо тільки один раз. Почнемо для створення панелі для вибору тесту. Всього тестів буде 10, по 10 питань.<br/>
 ```jsx
@@ -326,7 +324,6 @@ export default His;
 ```
 ![я55](https://user-images.githubusercontent.com/47575620/119918508-4a148300-bf71-11eb-9840-c990d62c8248.png)
 ![я551](https://user-images.githubusercontent.com/47575620/119918524-4ed93700-bf71-11eb-8506-3d31b6968961.png)
-![я'1](https://user-images.githubusercontent.com/47575620/119918532-513b9100-bf71-11eb-9883-4ca92f03b2c9.png)
 ![я2](https://user-images.githubusercontent.com/47575620/119918913-fbb3b400-bf71-11eb-8ee3-f65cec9699da.png)
 ![Uploading я2.png…]()
 
